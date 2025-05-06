@@ -1,0 +1,1 @@
+print(input('Seu animal é vertebrado ou invertebrado?'))
